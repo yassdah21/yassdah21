@@ -1,5 +1,5 @@
 <!-- Add your background image URL as a cover image -->
-![Cover Image](https://www.u-pec.fr/uas/web/LOGO/2017_11_27_Logotype-UPEC_rvb.svg)
+<img src="https://www.u-pec.fr/uas/web/LOGO/2017_11_27_Logotype-UPEC_rvb.svg" alt="Cover Image" width="400">
 
 # Hi there! 👋 I'm Yassine
 
@@ -19,7 +19,7 @@
 
 ## 🔭 Current Projects
 
-- [Ozone](link-to-ozone) - A Web Dashboard that gives a data visualization about air pollution in France. Technologies: REACTJS & NODEJS
+- [Ozone] Web Dashboard that gives a data visualization about air pollution in France. Technologies: REACTJS & NODEJS
 
 ## 📫 Let's connect
 
