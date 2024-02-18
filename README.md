@@ -7,13 +7,14 @@
 
 🚀 Here are some technologies I work with:
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://logo.clearbit.com/php.net" alt="PHP" width="50" height="50">
+<img src="https://logo.clearbit.com/reactjs.org" alt="ReactJS" width="50" height="50">
+<img src="https://logo.clearbit.com/w3.org" alt="HTML" width="50" height="50">
+<img src="https://logo.clearbit.com/w3.org" alt="CSS" width="50" height="50">
+<img src="https://logo.clearbit.com/python.org" alt="Python" width="50" height="50">
+<img src="https://logo.clearbit.com/isocpp.org" alt="C++" width="50" height="50">
+<img src="https://logo.clearbit.com/java.com" alt="Java" width="50" height="50">
+
 
 🌐 I'm passionate about software development and have a keen interest in ethical hacking.
 
