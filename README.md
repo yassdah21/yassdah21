@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Yassine
 
-🎓 I'm a student at Université Paris Est Créteil(UPEC), currently pursuing a Bachelor In Computer Science (2nd Year).
+🎓 I'm a student at Université Paris Est Créteil(UPEC), currently pursuing a Bachelor In Computer Science (3rd Year).
 
 🚀 Here are some technologies I work with:
 
@@ -19,7 +19,7 @@
 
 ## 🔭 Current Projects
 
-- [Ozone] Web Dashboard that gives a data visualization about air pollution in France. Technologies: REACTJS & NODEJS
+- [Micropple] I'm working on websites for a company at Freelance
 
 ## 📫 Let's connect
 
