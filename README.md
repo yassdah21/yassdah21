@@ -1,7 +1,5 @@
 <!-- Add your background image URL as a cover image -->
-<img src="https://www.u-pec.fr/uas/web/LOGO/2017_11_27_Logotype-UPEC_rvb.svg" alt="Cover Image" width="400">
-
-Hi there! 👋 I'm Yassine
+![Header](./github-header-banner.png)
 
 🎓 I hold a Bachelor's Degree in Computer Science from Université Paris-Est Créteil (UPEC).  
 🤝 **Open for collaborations!** Actively looking for contributors and collaborators on open-source & engineering projects.  
